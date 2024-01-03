@@ -1,0 +1,4 @@
+Bill breakdown: 
+mango:                    ....$500 
+tip:                      ....$0
+total:                    ....$500.00
